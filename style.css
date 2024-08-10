@@ -1,11 +1,10 @@
 body{
     font-family: 'Courier New', Courier, monospace;
-    display:flex;
-    flex-direction: column;
+    display:block;
     align-items: center;
 }
 
 .head{
     color:red;
-    
+
 }
