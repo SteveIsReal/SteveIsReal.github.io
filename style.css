@@ -1,8 +1,8 @@
 body{
     font-family: 'Courier New', Courier, monospace;
-    display: flex;
-    direction: block;
-    justify-content: center;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .head{
